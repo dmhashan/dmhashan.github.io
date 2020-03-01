@@ -838,6 +838,7 @@ body > footer .copyrights {
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
+  /* background-image: url(https://scontent.fcmb1-1.fna.fbcdn.net/v/t1.0-0/p640x640/69419300_2898383590178561_245352205807255552_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=BXolByPTrL8AX-sAD_V&_nc_ht=scontent.fcmb1-1.fna&_nc_tp=6&oh=ea9c1451ae0719aaa3b0c34dd53aea7f&oe=5EF834CE); */
   background-size: cover;
   -webkit-background-size: cover;
   background-attachment: scroll;
